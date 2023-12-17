@@ -1,0 +1,1 @@
+console.log('kontakt info kommt here')
