@@ -1,4 +1,8 @@
 log.txt
 /backend
+<<<<<<< HEAD
 /backend
 log_text.txt
+=======
+*.txt
+>>>>>>> master
